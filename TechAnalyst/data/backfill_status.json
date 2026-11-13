@@ -1,0 +1,305 @@
+{
+  "updated_at": "2026-11-08T07:11:18.523413+03:00",
+  "tickers": {
+    "SBER": {
+      "status": "done",
+      "ticker": "SBER",
+      "rows": 297973,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 0,
+      "saved_days": 0
+    },
+    "YDEX": {
+      "status": "done",
+      "ticker": "YDEX",
+      "rows": 293719,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 293719,
+      "saved_days": 335
+    },
+    "LKOH": {
+      "status": "done",
+      "ticker": "LKOH",
+      "rows": 296037,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 296037,
+      "saved_days": 335
+    },
+    "GAZP": {
+      "status": "done",
+      "ticker": "GAZP",
+      "rows": 297609,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 297609,
+      "saved_days": 335
+    },
+    "TATN": {
+      "status": "done",
+      "ticker": "TATN",
+      "rows": 292403,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 292403,
+      "saved_days": 335
+    },
+    "T": {
+      "status": "done",
+      "ticker": "T",
+      "rows": 291588,
+      "days": 329,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 291588,
+      "saved_days": 329
+    },
+    "NVTK": {
+      "status": "done",
+      "ticker": "NVTK",
+      "rows": 295295,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 295295,
+      "saved_days": 335
+    },
+    "GMKN": {
+      "status": "done",
+      "ticker": "GMKN",
+      "rows": 291698,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 291698,
+      "saved_days": 335
+    },
+    "OZON": {
+      "status": "done",
+      "ticker": "OZON",
+      "rows": 286308,
+      "days": 330,
+      "first": "2025-11-11T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 286308,
+      "saved_days": 330
+    },
+    "X5": {
+      "status": "done",
+      "ticker": "X5",
+      "rows": 295731,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 295731,
+      "saved_days": 335
+    },
+    "ROSN": {
+      "status": "done",
+      "ticker": "ROSN",
+      "rows": 297523,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 297523,
+      "saved_days": 335
+    },
+    "VTBR": {
+      "status": "done",
+      "ticker": "VTBR",
+      "rows": 297890,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 297890,
+      "saved_days": 335
+    },
+    "SBERP": {
+      "status": "done",
+      "ticker": "SBERP",
+      "rows": 295825,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 295825,
+      "saved_days": 335
+    },
+    "PLZL": {
+      "status": "done",
+      "ticker": "PLZL",
+      "rows": 292773,
+      "days": 333,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 292773,
+      "saved_days": 333
+    },
+    "SNGSP": {
+      "status": "done",
+      "ticker": "SNGSP",
+      "rows": 291355,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 291355,
+      "saved_days": 335
+    },
+    "SNGS": {
+      "status": "done",
+      "ticker": "SNGS",
+      "rows": 249959,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 249959,
+      "saved_days": 335
+    },
+    "HEAD": {
+      "status": "done",
+      "ticker": "HEAD",
+      "rows": 267038,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 267038,
+      "saved_days": 335
+    },
+    "TATNP": {
+      "status": "done",
+      "ticker": "TATNP",
+      "rows": 281425,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 281425,
+      "saved_days": 335
+    },
+    "MOEX": {
+      "status": "done",
+      "ticker": "MOEX",
+      "rows": 284278,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 284278,
+      "saved_days": 335
+    },
+    "IRAO": {
+      "status": "done",
+      "ticker": "IRAO",
+      "rows": 294567,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 294567,
+      "saved_days": 335
+    },
+    "MTSS": {
+      "status": "done",
+      "ticker": "MTSS",
+      "rows": 281827,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 281827,
+      "saved_days": 335
+    },
+    "CBOM": {
+      "status": "done",
+      "ticker": "CBOM",
+      "rows": 178720,
+      "days": 335,
+      "first": "2025-11-08T10:00:00+03:00",
+      "last": "2026-11-07T18:57:00+03:00",
+      "saved_rows": 178720,
+      "saved_days": 335
+    },
+    "CHMF": {
+      "status": "done",
+      "ticker": "CHMF",
+      "rows": 284397,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 284397,
+      "saved_days": 335
+    },
+    "NLMK": {
+      "status": "done",
+      "ticker": "NLMK",
+      "rows": 278126,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 278126,
+      "saved_days": 335
+    },
+    "RUAL": {
+      "status": "done",
+      "ticker": "RUAL",
+      "rows": 283878,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 283878,
+      "saved_days": 335
+    },
+    "SVCB": {
+      "status": "done",
+      "ticker": "SVCB",
+      "rows": 269813,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 269813,
+      "saved_days": 335
+    },
+    "PHOR": {
+      "status": "done",
+      "ticker": "PHOR",
+      "rows": 258378,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 258378,
+      "saved_days": 335
+    },
+    "DOMRF": {
+      "status": "done",
+      "ticker": "DOMRF",
+      "rows": 250821,
+      "days": 319,
+      "first": "2025-11-20T16:09:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 250821,
+      "saved_days": 319
+    },
+    "AFLT": {
+      "status": "done",
+      "ticker": "AFLT",
+      "rows": 292763,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 292763,
+      "saved_days": 335
+    },
+    "MAGN": {
+      "status": "done",
+      "ticker": "MAGN",
+      "rows": 291132,
+      "days": 335,
+      "first": "2025-11-08T09:59:00+03:00",
+      "last": "2026-11-07T18:59:00+03:00",
+      "saved_rows": 291132,
+      "saved_days": 335
+    }
+  }
+}

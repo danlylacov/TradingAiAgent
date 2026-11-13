@@ -1,0 +1,155 @@
+{
+  "as_of": "2026-11-06",
+  "securities": [
+    {
+      "ticker": "LKOH",
+      "name": "ЛУКОЙЛ",
+      "weight": 17.03
+    },
+    {
+      "ticker": "SBER",
+      "name": "Сбербанк",
+      "weight": 11.81
+    },
+    {
+      "ticker": "GAZP",
+      "name": "ГАЗПРОМ ао",
+      "weight": 10.3
+    },
+    {
+      "ticker": "YDEX",
+      "name": "ЯНДЕКС",
+      "weight": 5.7
+    },
+    {
+      "ticker": "TATN",
+      "name": "Татнфт 3ао",
+      "weight": 5.29
+    },
+    {
+      "ticker": "T",
+      "name": "Т-Техно ао",
+      "weight": 4.82
+    },
+    {
+      "ticker": "NVTK",
+      "name": "Новатэк ао",
+      "weight": 4.73
+    },
+    {
+      "ticker": "GMKN",
+      "name": "ГМКНорНик",
+      "weight": 3.82
+    },
+    {
+      "ticker": "OZON",
+      "name": "Озон",
+      "weight": 3.44
+    },
+    {
+      "ticker": "X5",
+      "name": "КЦ ИКС 5",
+      "weight": 3.02
+    },
+    {
+      "ticker": "ROSN",
+      "name": "Роснефть",
+      "weight": 2.74
+    },
+    {
+      "ticker": "VTBR",
+      "name": "ВТБ ао",
+      "weight": 2.39
+    },
+    {
+      "ticker": "SBERP",
+      "name": "Сбербанк-п",
+      "weight": 2.29
+    },
+    {
+      "ticker": "PLZL",
+      "name": "Полюс",
+      "weight": 2.08
+    },
+    {
+      "ticker": "SNGSP",
+      "name": "Сургнфгз-п",
+      "weight": 1.96
+    },
+    {
+      "ticker": "SNGS",
+      "name": "Сургнфгз",
+      "weight": 1.79
+    },
+    {
+      "ticker": "HEAD",
+      "name": "Хэдхантер",
+      "weight": 1.12
+    },
+    {
+      "ticker": "TATNP",
+      "name": "Татнфт 3ап",
+      "weight": 1.12
+    },
+    {
+      "ticker": "MOEX",
+      "name": "МосБиржа",
+      "weight": 1.11
+    },
+    {
+      "ticker": "IRAO",
+      "name": "ИнтерРАОао",
+      "weight": 1.06
+    },
+    {
+      "ticker": "MTSS",
+      "name": "МТС-ао",
+      "weight": 0.95
+    },
+    {
+      "ticker": "CBOM",
+      "name": "МКБ ао",
+      "weight": 0.94
+    },
+    {
+      "ticker": "CHMF",
+      "name": "СевСт-ао",
+      "weight": 0.87
+    },
+    {
+      "ticker": "NLMK",
+      "name": "НЛМК ао",
+      "weight": 0.78
+    },
+    {
+      "ticker": "RUAL",
+      "name": "РУСАЛ ао",
+      "weight": 0.75
+    },
+    {
+      "ticker": "SVCB",
+      "name": "Совкомбанк",
+      "weight": 0.66
+    },
+    {
+      "ticker": "PHOR",
+      "name": "ФосАгро ао",
+      "weight": 0.64
+    },
+    {
+      "ticker": "DOMRF",
+      "name": "ДОМ.РФ",
+      "weight": 0.62
+    },
+    {
+      "ticker": "AFLT",
+      "name": "Аэрофлот",
+      "weight": 0.5
+    },
+    {
+      "ticker": "MAGN",
+      "name": "ММК",
+      "weight": 0.49
+    }
+  ]
+}
